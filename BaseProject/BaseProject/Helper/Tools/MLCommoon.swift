@@ -11,8 +11,8 @@ import SnapKit
 import IQKeyboardManagerSwift
 import SVProgressHUD
 
-//public let SERVER_PATH = "http://mall.sharecentury.cn:9000"
-public let SERVER_PATH = "http://www.zhuozhuomu.com/index.php?route=app"
+//public let SERVER_PATH = ""
+public let SERVER_PATH = "http://www.zhuozhuomu.com"
 
 
 
