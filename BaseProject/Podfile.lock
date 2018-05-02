@@ -1,0 +1,72 @@
+PODS:
+  - Alamofire (4.7.2)
+  - FDFullscreenPopGesture (1.1)
+  - IQKeyboardManagerSwift (6.0.2)
+  - Kingfisher (4.7.0)
+  - LYEmptyView (1.0.3)
+  - MJRefresh (3.1.15.3)
+  - MonkeyKing (1.6.0)
+  - ObjectMapper (3.1.0)
+  - Realm (3.5.0):
+    - Realm/Headers (= 3.5.0)
+  - Realm/Headers (3.5.0)
+  - RealmSwift (3.5.0):
+    - Realm (= 3.5.0)
+  - RTRootNavigationController (0.6.6):
+    - RTRootNavigationController/Core (= 0.6.6)
+  - RTRootNavigationController/Core (0.6.6)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FDFullscreenPopGesture
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - LYEmptyView
+  - MJRefresh
+  - MonkeyKing
+  - ObjectMapper
+  - RealmSwift
+  - RTRootNavigationController
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - FDFullscreenPopGesture
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - LYEmptyView
+    - MJRefresh
+    - MonkeyKing
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RTRootNavigationController
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  IQKeyboardManagerSwift: 59d4b0e140bc546c3c76ae5bb35b3dafd10b8172
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  LYEmptyView: 3a7d1604cff1791d207a498a42101f31e9b12b8c
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  MonkeyKing: 4b4c523925234f7138d13d696322a2c8182be06b
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  Realm: 0378021c424e4e2bd6a0e63b27881e929d9b9ad1
+  RealmSwift: 3322562622fda2ad596985ead4d8d8be30cf838c
+  RTRootNavigationController: 1429554f853e8319a383849befed73d5dc58a108
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 736823ba92247de942baed4383948665c6e0d654
+
+COCOAPODS: 1.5.0

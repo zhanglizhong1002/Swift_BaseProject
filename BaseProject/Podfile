@@ -1,0 +1,26 @@
+platform :ios, '9.0'
+
+target 'BaseProject' do
+
+inhibit_all_warnings! #屏蔽所有warning
+
+#    pod 'RxSwift'
+#    pod 'RxCocoa'
+
+    pod 'RealmSwift'
+    pod 'SnapKit'
+    pod 'MJRefresh'
+    pod 'Alamofire'
+    pod 'SwiftyJSON'
+    pod 'ObjectMapper'
+    pod 'Kingfisher'
+    pod 'SVProgressHUD'
+    pod 'IQKeyboardManagerSwift'
+
+    pod 'LYEmptyView' #空页处理
+    pod 'RTRootNavigationController' #导航栏转场动画
+    pod 'FDFullscreenPopGesture' #右滑返回
+    pod 'MonkeyKing' #第三方登录分享支付
+    
+    use_frameworks!
+end
